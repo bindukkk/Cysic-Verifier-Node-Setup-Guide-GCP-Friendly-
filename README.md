@@ -20,7 +20,7 @@ you need to add invite code (compulsory)
 invite code
 
 ```bash 
-993b8
+f2cba
 ```
 
 ![Screenshot 2025-06-18 144603](https://github.com/user-attachments/assets/8e4ecc8d-cdb5-4833-bec2-67a7f9d9bfb6)
